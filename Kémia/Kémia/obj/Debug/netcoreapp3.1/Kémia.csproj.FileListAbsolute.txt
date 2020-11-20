@@ -1,0 +1,11 @@
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.exe
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.deps.json
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.runtimeconfig.json
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.runtimeconfig.dev.json
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.dll
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\bin\Debug\netcoreapp3.1\Kémia.pdb
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.csprojAssemblyReference.cache
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.AssemblyInfoInputs.cache
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.AssemblyInfo.cs
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.dll
+D:\_OKJ ONLINE\Englert\Kémia\Kémia\obj\Debug\netcoreapp3.1\Kémia.pdb
